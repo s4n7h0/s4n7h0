@@ -5,9 +5,9 @@
 
 ## I'm a Researcher, Instructor, Halcyon IDE Creator, Podcast Host and BSidesSG Organizer 
 
-- 🌱 I'm currently working on both offense and defense side of Information Security.
-- 🔭 I’m hosting podcast on [infoseccampus][infoseccampus]
-
+- 🔭 I'm currently working on both offense and defense side of Information Security.
+- 🎙️ I’m hosting podcast on [InfoSec Campus][infoseccampus]
+- 💎 I'm maintaining [Halcyon IDE][halcyonide] project.
 <!--
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: 
