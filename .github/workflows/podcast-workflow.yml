@@ -1,0 +1,17 @@
+name: Latest Podcast Episodes
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest podcast episodes from Spreaker
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "PODCAST"
+          feed_list: "https://www.spreaker.com/show/3566378/episodes/feed"
