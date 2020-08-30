@@ -3,11 +3,12 @@
 [![Website](https://img.shields.io/website?label=devilslab.in&style=for-the-badge&url=https%3A%2F%2Fdevilslab.in)](https://devilslab.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/s4n7h0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs4n7h0&screen_name=s4n7h0)
 
-## I'm a InfoSec Researcher, Instructor, Creator of Halcyon IDE, Podcast Host, BSidesSG organizer 
+## I'm a Researcher, Instructor, Halcyon IDE Creator, Podcast Host and BSidesSG Organizer 
 
-- 🔭 I’m currently hosting podcast on [infoseccampus][infoseccampus]
+- 🌱 I'm currently working on both offense and defense side of Information Security.
+- 🔭 I’m hosting podcast on [infoseccampus][infoseccampus]
+
 <!--
-- 🌱 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: 
 - ⚡ Fun fact: 
