@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanoop Thomas - aka [s4n7h0][website] 👋
 
-[![Website](https://img.shields.io/website?label=devilslab.in&style=for-the-badge&url=https%3A%2F%2Fdevilslab.in)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/s4n7h0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=s4n7h0)
+[![Website](https://img.shields.io/website?label=devilslab.in&style=for-the-badge&url=https%3A%2F%2Fdevilslab.in)](https://devilslab.in)
+[![Twitter Follow](https://img.shields.io/twitter/follow/s4n7h0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs4n7h0&screen_name=s4n7h0)
 
 ## I'm a InfoSec Researcher, Instructor, Creator of Halcyon IDE, Podcast Host, BSidesSG organizer 
 
