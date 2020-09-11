@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding the hacker in 'C U Soon'](/posts/2020/09/decoding-the-hacker-in-c-u-soon/)
 - [Understanding HTTP.sys Denial of Service(BSoD)](/posts/2016/11/understanding-http.sys-denial-of-servicebsod/)
 - [Nmap XML Parser 2.0](/posts/2015/09/nmap-xml-parser-2.0/)
 - [Null Humla Write-up on Mastering Nmap Script Engine](/posts/2015/08/null-humla-write-up-on-mastering-nmap-script-engine/)
 - [How did I start writing NSE](/posts/2013/07/how-did-i-start-writing-nse/)
-- [What are those colors in Wireshark screen ?](/posts/2013/07/what-are-those-colors-in-wireshark-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://devilslab.in)
