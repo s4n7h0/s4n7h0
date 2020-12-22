@@ -30,11 +30,11 @@
 ### 📺 Latest Podcast Episodes
 
 <!-- PODCAST:START -->
+- [SecTools Podcast E26 With Vipin Pavithran](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e26-2020-12-22)
 - [SecTools Podcast E25 With Paulino Calderon](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e25-2020-12-10)
 - [SecTools Podcast E24 With Anastasios Stasinopoulos](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e24-2020-11-20)
 - [SecTools Podcast E23 With Steve Springett](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e23-2020-10-19)
 - [SecTools Podcast E22 With Nishant Sharma](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e22-2020-09-07)
-- [SecTools Podcast E21 With Emily Wenger](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e21-2020-08-11)
 <!-- PODCAST:END -->
 
 ➡️ [more episodes...](https://www.spreaker.com/show/3566378/episodes/feed)
