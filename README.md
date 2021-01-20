@@ -30,11 +30,11 @@
 ### 📺 Latest Podcast Episodes
 
 <!-- PODCAST:START -->
-- [SecTools Podcast E21 With Emily Wenger](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e21-2020-08-11)
-- [SecTools Podcast E20 With Isaac Evans](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e20-2020-07-05)
-- [SecTools Podcast E19 With Kai Jern Lau](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e19-2020-04-20)
-- [SecTools Podcast E18 With H.D Moore](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e18-2020-04-10)
-- [SecTools Podcast E16 With Brian Carrier](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e17-2020-03-13)
+- [SecTools Podcast E26 With Vipin Pavithran](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e26-2020-12-22)
+- [SecTools Podcast E25 With Paulino Calderon](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e25-2020-12-10)
+- [SecTools Podcast E24 With Anastasios Stasinopoulos](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e24-2020-11-20)
+- [SecTools Podcast E23 With Steve Springett](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e23-2020-10-19)
+- [SecTools Podcast E22 With Nishant Sharma](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e22-2020-09-07)
 <!-- PODCAST:END -->
 
 ➡️ [more episodes...](https://www.spreaker.com/show/3566378/episodes/feed)
@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding HTTP.sys Denial of Service(BSoD)](/posts/2016/11/understanding-http.sys-denial-of-servicebsod/)
-- [Nmap XML Parser 2.0](/posts/2015/09/nmap-xml-parser-2.0/)
-- [Null Humla Write-up on Mastering Nmap Script Engine](/posts/2015/08/null-humla-write-up-on-mastering-nmap-script-engine/)
-- [How did I start writing NSE](/posts/2013/07/how-did-i-start-writing-nse/)
-- [What are those colors in Wireshark screen ?](/posts/2013/07/what-are-those-colors-in-wireshark-screen/)
+- [Decoding the hacker in 'C U Soon'](/posts/decoding-the-hacker-in-c-u-soon/)
+- [Understanding HTTP.sys Denial of Service(BSoD)](/posts/understanding-http.sys-denial-of-servicebsod/)
+- [Nmap XML Parser 2.0](/posts/nmap-xml-parser/)
+- [Null Humla Write-up on Mastering Nmap Script Engine](/posts/null-humla-write-up-on-mastering-nmap-script-engine/)
+- [How did I start writing NSE](/posts/how-did-i-start-writing-nse/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://devilslab.in)
