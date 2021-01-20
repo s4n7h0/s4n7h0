@@ -65,7 +65,7 @@
 
 [website]: https://devilslab.in
 [twitter]: https://twitter.com/s4n7h0 
-[instagram]: https://instagram.com/s4n7h0.frames
+[instagram]: https://instagram.com/s4n7h0frames
 [linkedin]: https://linkedin.com/in/s4n7h0
 [halcyonide]: https://halcyon-ide.org
 [infoseccampus]: https://infoseccampus.com
