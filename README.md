@@ -30,7 +30,7 @@
 ### 📺 Latest Podcast Episodes
 
 <!-- PODCAST:START -->
-- [SecTools Podcast E30 With NJ Ochen](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e30-2021-04-06)
+- [SecTools Podcast E30 With NJ OUCHN](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e30-2021-04-06)
 - [SecTools Podcast E29 With Martin Donath](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e29-2021-03-28)
 - [SecTools Podcast E28 With Charlie Belmer](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e28-2021-02-15)
 - [SecTools Podcast E27 With Guillaume Valadon](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e27-2021-01-24)
