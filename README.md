@@ -44,8 +44,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the hacker in 'C U Soon'](https://devilslab.in/posts/decoding-the-hacker-in-c-u-soon/)
-- [Understanding HTTP.sys Denial of Service(BSoD)](https://devilslab.in/posts/understanding-http.sys-denial-of-servicebsod/)
+- [Decoding the hacker in &#39;C U Soon&#39;](https://devilslab.in/posts/decoding-the-hacker-in-c-u-soon/)
+- [Understanding HTTP.sys Denial of Service&lpar;BSoD&rpar;](https://devilslab.in/posts/understanding-http.sys-denial-of-servicebsod/)
 - [Nmap XML Parser 2.0](https://devilslab.in/posts/nmap-xml-parser/)
 - [Null Humla Write-up on Mastering Nmap Script Engine](https://devilslab.in/posts/null-humla-write-up-on-mastering-nmap-script-engine/)
 - [How did I start writing NSE](https://devilslab.in/posts/how-did-i-start-writing-nse/)
