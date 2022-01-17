@@ -30,11 +30,11 @@
 ### 📺 Latest Podcast Episodes
 
 <!-- PODCAST:START -->
+- [SecTools Podcast E37 With Ai Ho &lpar;j3ssie&rpar;](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e37-2022-01-17)
 - [SecTools Podcast E36 With Ruslan Habalov](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e36-2021-12-21)
 - [SecTools Podcast E35 With Jack Baker](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e35-2021-11-19)
 - [SecTools Podcast E34 With Lukas Rist](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e34-2021-10-15)
 - [SecTools Podcast E33 With Joxean Koret](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e33-2021-08-17)
-- [SecTools Podcast E32 With Chris Em &lpar;a.k.a Cookie Engineer&rpar;](https://www.spreaker.com/user/infoseccampus/sectools-podcast-e32-2021-07-28)
 <!-- PODCAST:END -->
 
 ➡️ [more episodes...](https://www.spreaker.com/show/3566378/episodes/feed)
